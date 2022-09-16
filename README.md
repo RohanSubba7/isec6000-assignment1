@@ -20,7 +20,7 @@ To fetch fresh repository, follow [section below](#how-to-clone-the-repository)
 To clone the repository, run the following command
 
 ```
-git clone https://github.com/saleor/saleor-platform.git --recursive --jobs 3
+git clone https://github.com/RohanSubba7/isec6000-assignment1.git --recursive --jobs 3
 ```
 
 ## How to run it?
@@ -54,7 +54,7 @@ See [Makefile](Makefile) for all commands
 
 2. Go to the cloned directory:
 ```shell
-cd saleor-platform
+cd isec6000-assignment1
 ```
 
 3. Build the application:
